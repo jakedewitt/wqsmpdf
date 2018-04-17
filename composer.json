@@ -2,7 +2,6 @@
 
 	"name": "jakedewitt/wqsmpdf",
 	"type": "library",
-
 	"description": "A PHP class to generate PDF files from HTML with Unicode/UTF-8 and CJK support",
 
 	"keywords": ["php", "pdf", "utf-8"],
